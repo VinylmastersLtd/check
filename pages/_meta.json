@@ -3,26 +3,30 @@
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "About us",
     "type": "page"
   },
 
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true },
+
+
+    "Configurator": {
+      "title": "Price Configurator ↗",
+      "type": "page",
+      "href": "https://vinylmasters-ltd.uk/Price-Configurator",
+      "newWindow": true },
+
+      "contact": {
+        "title": "Request Quotation ↗",
+        "type": "page",
+        "href": "https://vinylmasters-ltd.uk/#Contact",
+        "newWindow": true },
+    
 
     "Main Page": {
-      "title": "Click here to go back to main website ↗",
+      "title": "Go back to main website ↗",
       "type": "page",
       "href": "https://vinylmasters-ltd.uk/",
       "newWindow": true },
       
-      "Configurator": {
-        "title": "Price Configurator ↗",
-        "type": "page",
-        "href": "https://vinylmasters-ltd.uk/Price-Configurator",
-        "newWindow": true }
   
 }
