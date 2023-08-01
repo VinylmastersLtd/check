@@ -8,7 +8,6 @@
   },
 
 
-
     "Configurator": {
       "title": "Price Configurator ↗",
       "type": "page",
@@ -26,7 +25,7 @@
       "title": "Go back to main website ↗",
       "type": "page",
       "href": "https://vinylmasters-ltd.uk/",
-      "newWindow": true },
+      "newWindow": true }
       
   
 }
