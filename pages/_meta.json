@@ -6,17 +6,18 @@
     "title": "About",
     "type": "page"
   },
+
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+    "newWindow": true },
 
-  "Main": {
-    "title": "main ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true,
-  }
+    "hello": {
+      "title": "hello ↗",
+      "type": "page",
+      "href": "https://twitter.com/shuding_",
+      "newWindow": true }
+
+
 }
