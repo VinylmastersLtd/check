@@ -8,4 +8,16 @@ export default {
       
     </>
   ),
+
+  primaryHue: {
+    light: 47,
+    dark: 12,
+  },
+
+  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  footer: {
+    text: 'Nextra Docs Template',
+  },
+
+
 };
