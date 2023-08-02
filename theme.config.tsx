@@ -14,10 +14,19 @@ export default {
     dark: 12,
   },
 
+  
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     text: 'Nextra Docs Template',
   },
 
+  banner: {
+    key: '2.0-release',
+    text: (
+      <a href="https://nextra.site" target="_blank">
+        🎉 Nextra 2.0 is released. Read more →
+      </a>
+    )
+  }
 
-};
+  };
