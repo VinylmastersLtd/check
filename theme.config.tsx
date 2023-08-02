@@ -29,8 +29,8 @@ export default {
     ),
   },
 
-  sidebar: {
-    boolean: true,
+  sidebar: { 
+    togglebutton: 'true'
   },
   
  };
