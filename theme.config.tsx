@@ -29,7 +29,7 @@ export default {
     ),
   },
 
-  toggleButton: {
+  sidebar: {
     boolean: true,
   },
   
