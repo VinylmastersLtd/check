@@ -23,10 +23,14 @@ export default {
   banner: {
     key: '3.0-release',
     text: (
-      <a href="https://nextra.site" target="_blank">
-        👋 Welcome to our hub→
+      <a href="" target="_blank">
+        👋 Welcome to our hub!
       </a>
-    )
-  }
+    ),
+  },
 
-  };
+  toggleButton: {
+    boolean: true,
+  },
+  
+ };
